@@ -47,3 +47,5 @@ To classify the images, we used Xception model from Google and used it’s globa
 <strong>2. Aryan Garg</strong><br>
 <strong>3. R Aakash</strong><br>
 <strong>4. Prince Arya</strong><br>
+<strong>4. muskan gupta</strong><br>
+
